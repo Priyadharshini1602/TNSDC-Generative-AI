@@ -10,7 +10,7 @@ Download link: https://www.kaggle.com/datasets/jangedoo/utkface-new Environment:
 
 Libraries Requirements:
 
-pandas numpy matplotlib keras tensorflow scikit-learn
+pandas,numpy,matplotlib,keras,tensorflow,scikit-learn
 
 Neural Network:
 
